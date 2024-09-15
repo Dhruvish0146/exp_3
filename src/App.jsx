@@ -10,7 +10,7 @@ function App() {
       <Navbar/>
         Hello World !!!!
         stash line 3
-        this is clone repo
+        this is clone repo by dhruvish
         <HeroSelection/>
       </div>
     </>
